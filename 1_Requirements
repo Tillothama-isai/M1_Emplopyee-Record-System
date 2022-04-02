@@ -11,3 +11,23 @@ Add record
 List record
 Modify record
 Delete record
+FUNCTIONAL REQUIREMENTS:
+AUTHENTICATION:
+login
+logout
+login failure
+AUTHORIZATION:
+user role check
+PROCESS DATA:
+display 
+edit
+search
+LEAVE APPLICATION/APPROVAL:
+leave application
+leave approval
+NON-FUNCTIONAL REQUIREMENTS:
+performance requirements
+relaibility
+scalibility
+
+
