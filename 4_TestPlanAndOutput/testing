@@ -1,1 +1,76 @@
+if employee data exits.
+open file in read or write mode.
+if employee data doesnot exits.
+then create a new file.
 
+1.Add Record
+2.List Record.
+3.Modify Record.
+4.Delete Record.
+5.Exit.
+
+your choice
+enter name:tillu
+enter age:20
+enter basic salary:20000
+
+add another record
+enter name:ramya
+enter age:21
+enter basic salary:25000
+
+your choice:2
+enter name:tillu
+enter age:20
+enter basic salary:20000
+
+enter name:ramya
+enter age:21
+enter basic salary:25000
+
+your choice:3
+enter employee name to modify:ramya
+enter new name,age and basic salary:
+sekhar
+25
+30000
+
+your choice:4
+enter employee name to delete:sekhar
+
+your choice:5
+//closing the output window.//
+
+test case 1:
+test scenario:
+validating employee data exists or not
+
+test case1:
+validating employee data exits or not
+if employee data exists then open file in read and write mode.
+
+test case 2:
+if employee data does not exists then open new file to enter the employee data like name,age and basic salary.
+
+test case 3:
+validating menu items in the screen(coordinator)
+1.add record
+2.list record
+3.modify record
+4.delete record
+5.exit
+
+test case 4:
+validating enter new records to the file like name,age &  basic salary.
+
+test case 5:
+validating list of records in the file.
+
+test case 6:
+validating modify records in the list of employee.
+
+test case 7:
+validating records are deleting successfully  once user performes delete option.
+
+test case 8:
+validating user  moving out of the records or file once he or she performs exists option.
